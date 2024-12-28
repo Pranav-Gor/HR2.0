@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-session": "^1.18.1",
+    "oracledb": "^6.7.1"
+  }
+}
